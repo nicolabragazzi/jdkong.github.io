@@ -13,7 +13,8 @@ The Kong Research Group  is led by *Jude Dzevela Kong*, an assistant Professor i
 We work on Mathematical problems in spatial ecology, microbial ecology and epidemiology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
 
 Ecological and epidemiological problems include i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions<br/><img src='/images/reef_fish.jpg'>
-ii) studying the impact of industrial operations such as the Alberta oil sands on our environment<br/><img src='/images/methane/png'>, iii) understanding the role of bacteria growth-limiting resources and bacteriophage in modulating indirectly transmitted infectious diseases v) modelling industrial composting v) modelling the interactions between bacteria and algae in open water and vi) understanding the spread and persistence of viruses.<br/><img src='/images/direct_indirect.png'>
+ii) studying the impact of industrial operations such as the Alberta oil sands on our environment<br/><img src='/images/methane.png'>, iii) studying the dynamics of direct and indirect transmissted disease in human population
+<br/><img src='/images/direct_indirect.png'>v) modelling industrial composting v) modelling the interactions between bacteria and algae in open water and 
 
 Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
