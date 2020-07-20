@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Jude Dzevela Kong"
-description              : &description "NSERC Postdoctoral Fellow."
+description              : &description "Assistant Professor."
 url                      : http://www.judekong.ca #https://jdkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jdkong.github.io"
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Jude Dzevela Kong"
-  avatar           : "photo.png"
-  bio              : "NSERC Postdoctoral Fellow, Applied Mathematician and Data Scientist."
-  location         : "New Jersey"
+  avatar           : "profile_july2020.jpg"
+  bio              : "Assistant Professor, Applied Mathematician and Data Scientist."
+  location         : "Ontario"
   employer         :
   googlescholar    :
   email            : "dzevela85@gmail.com"
