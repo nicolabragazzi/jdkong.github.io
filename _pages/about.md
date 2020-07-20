@@ -15,7 +15,7 @@ Epidemiological and ecological  problems include:
 i) studying and forecasting the transmission and spread of pathogens within and among human populations 
 ii) designing frameworks for assessing pandemic potentials of different regions
 
-<br/><img src='/images/caro_map.jpg'>
+<br/><img src='/images/caro_map'>
 iii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
 
 <br/><img src='/images/reef_fish.jpg'>
