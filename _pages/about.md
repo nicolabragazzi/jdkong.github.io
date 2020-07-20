@@ -26,7 +26,9 @@ iii) studying the dynamics of direct and indirect transmissted disease in human 
 
 <br/><img src='/images/direct_indirect.png'>
 
-iv) modelling industrial composting v) modelling the interactions between bacteria and algae in open water.
+iv) modelling industrial composting 
+
+v) modelling the interactions between bacteria and algae in open water.
 
 Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
