@@ -14,7 +14,7 @@ We work on Mathematical problems in spatial ecology, microbial ecology and epide
 
 Ecological and epidemiological problems include i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions<br/><img src='/images/reef_fish.jpg'>
 ii) studying the impact of industrial operations such as the Alberta oil sands on our environment<br/><img src='/images/methane.png'> iii) studying the dynamics of direct and indirect transmissted disease in human population
-<br/><img src='/images/direct_indirect.png'>v) modelling industrial composting v) modelling the interactions between bacteria and algae in open water and 
+<br/><img src='/images/direct_indirect.png'>v) modelling industrial composting v) modelling the interactions between bacteria and algae in open water.  
 
 Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
