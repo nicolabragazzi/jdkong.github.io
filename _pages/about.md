@@ -7,6 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Overview
+===
+The Kong Research Group  is led by *Jude Dzevela Kong*, an assistant Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
 
-I am Jude Kong an *NSERC Postdoctoral Fellow.* I earned my PhD in *Applied Mathematics* alongside an embbeded certificate in *Data Science* from the University of Alberta. My area of research is Mathematical Biology, with a focus in spatial ecology and infectious diseases. Mathematical models include  ordinary differential  equations,  partial  differential equations, delay differential equations, difference equations and stochastic process-based models. Ecological and epidemiological problems include forecasting species ranges, modelling the dynamics of phytoplankton and bacteria in marine waters,  predicting  greenhouse gases emissions from tailings ponds and  understanding the spread and persistence of infectious diseases. Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
+We work on Mathematical problems in spatial ecology, microbial ecology and epidemiology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
+
+Ecological and epidemiological problems include i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions ii) studying the impact of industrial operations such as the Alberta oil sands on our environment, iii) understanding the role of bacteria growth-limiting resources and bacteriophage in modulating indirectly transmitted infectious diseases v) modelling industrial composting v) modelling the interactions between bacteria and algae in open water and vi) understanding the spread and persistence of viruses.
+
+Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
+
+Join us
+===
+We are actively looking for passionate undergraduate and graduate students,  and  postdocs to join our group. If  our scientific interests overlap, and you will like to join us,  please contact us before you apply so that we can discuss your application. In your email, please include a description of your interests and how they fit into our lab along with a CV, and unofficial transcripts. All students are welcome here regardless of race, religion, gender identification, sexual orientation, age, or disability status.
