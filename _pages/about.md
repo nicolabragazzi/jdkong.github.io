@@ -7,29 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The Kong Research Group  is led by *Jude Dzevela Kong*, an assistant Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
+The Kong Research Group  is led by *Jude Dzevela Kong*, a Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
 
+We work on Mathematical problems in infectious diseases and population dynamics. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
 
-We work on Mathematical problems in spatial ecology, microbial ecology and epidemiology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
+Epidemiological and ecological  problems include: 
+i) studying and forecasting the transmission and spread of pathogens within and among human populations 
+ii) designing frameworks for assessing pandemic potentials of different regions
 
-Ecological and epidemiological problems include: 
-
-i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
+<br/><img src='/images/reef_fish.jpg'><br/><img src='/images/reef_fish.jpg'>
+iii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
 
 <br/><img src='/images/reef_fish.jpg'>
 
-ii) studying the impact of industrial operations such as the Alberta oil sands on our environment
+iv) studying the impacts of oil sands on our environment
 
 <br/><img src='/images/methane.png'> 
-
-iii) studying the dynamics of direct and indirect transmissted disease in human population
-
-<br/><img src='/images/direct_indirect.png'>
-
-iv) modelling industrial composting 
-
-v) modelling the interactions between bacteria and algae in open water.
-
 Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
 Join us
