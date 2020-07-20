@@ -12,9 +12,11 @@ The Kong Research Group  is led by *Jude Dzevela Kong*, an assistant Professor i
 
 We work on Mathematical problems in spatial ecology, microbial ecology and epidemiology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
 
-Ecological and epidemiological problems include i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem condition
+Ecological and epidemiological problems include: 
 
-s<br/><img src='/images/reef_fish.jpg'>
+i) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
+
+<br/><img src='/images/reef_fish.jpg'>
 
 ii) studying the impact of industrial operations such as the Alberta oil sands on our environment
 
