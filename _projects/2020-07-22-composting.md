@@ -1,6 +1,7 @@
 ---
 title: "Modelling Composting"
 collection: projects
+type: "Ongoing research"
 permalink: /2020-07-22-composting
 venue: "York University"
 date: 2020-07-22
