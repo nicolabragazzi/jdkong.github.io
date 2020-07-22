@@ -1,7 +1,7 @@
 ---
 title: "Modelling the spread of communicable diseases among vulnerable groups: nursing homes."
 collection: projects
-permalink: /2020-06-22-marinespecies
+permalink: /2020-07-22-nursing home
 
 ---
 
