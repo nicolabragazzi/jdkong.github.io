@@ -2,8 +2,12 @@
 title: "Modelling the spread of communicable diseases among vulnerable groups: nursing homes."
 collection: projects
 permalink: /2020-07-22-nursing home
+venue: "York University"
+date: 2020-07-22
+location: "Toronto, Canada"
 
 ---
+
 
 The objective is to study the relationship between the spread of diseases in nursing homes and 
 i) the in and out the movement of staff, visitors and nursing home residents, and mobility of staff between homes,
