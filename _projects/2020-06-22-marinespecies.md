@@ -2,8 +2,9 @@
 title: "Spatiotemporal dynamics of marine species"
 collection: projects
 permalink: projects/2020-06-22-marinespecies
-excerpt: 'This is an ongoin project.'
+venue: "York University"
 date: 2020-07-22
+location: "Toronto, Canada"
 
 ---
 
