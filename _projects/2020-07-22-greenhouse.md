@@ -1,6 +1,7 @@
 ---
 title: "Modelling greenhouse gases emissions from oil sands tailing and end pit lakes"
 collection: projects
+type: "Ongoing research"
 permalink: /project/2020-07-22-greenhouse
 venue: "York University"
 date: 2020-07-22
