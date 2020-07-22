@@ -2,6 +2,9 @@
 title: "The dynamics of COVID-9 in multilayer networks influenced by opinion exchanges on quarantine."
 collection: projects
 permalink: /projects/2020-07-22-opinionmodel
+venue: "York University"
+date: 2020-07-22
+location: "Toronto, Canada"
 
 ---
 
