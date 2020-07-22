@@ -2,7 +2,7 @@
 title: "Epidemiology"
 collection: projects
 type: "Part of my PhD projects."
-permalink: /projects/ 2017-08-09-Epidemiology
+permalink:
 venue: "University of Alberta"
 date: 2017-08-09
 location: "Edmonton, Canada"
