@@ -1,6 +1,7 @@
 ---
 title: "Spatiotemporal dynamics of marine species"
 collection: projects
+type: "Ongoing research"
 permalink: projects/2020-06-22-marinespecies
 venue: "York University"
 date: 2020-07-22
