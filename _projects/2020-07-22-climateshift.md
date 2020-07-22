@@ -2,6 +2,7 @@
 title: "The persistence of populations facing climate shifts and
 harvest"
 collection: projects
+type: "Ongoing research"
 permalink: /2020-06-22-climateshift
 venue: "York University"
 date: 2020-07-22
