@@ -1,6 +1,7 @@
 ---
 title: "Dynamics of phytoplankton and bacteria in a lake. "
 collection: projects
+type: "Ongoing research"
 permalink: /2020-06-22-phytoplankton
 venue: "York University"
 name: "on going project"
