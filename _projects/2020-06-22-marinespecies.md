@@ -1,7 +1,9 @@
 ---
 title: "Spatiotemporal dynamics of marine species"
 collection: projects
-permalink: /2020-06-22-marinespecies
+permalink: projects/2020-06-22-marinespecies
+excerpt: 'This is an ongoin project.'
+date: 2020-07-22
 
 ---
 
