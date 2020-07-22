@@ -1,6 +1,7 @@
 ---
 title: "Modelling the spread of communicable diseases among vulnerable groups: nursing homes."
 collection: projects
+type: "Ongoing research"
 permalink: /2020-07-22-nursing home
 venue: "York University"
 date: 2020-07-22
