@@ -1,6 +1,7 @@
 ---
 title: "Early epidemiology of COVID-19"
 collection: projects
+type: "Ongoing research"
 permalink: projects/2020-06-22-epidemiology
 venue: "York University"
 date: 2020-07-22
