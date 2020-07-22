@@ -2,7 +2,12 @@
 title: "Dynamics of phytoplankton and bacteria in a lake. "
 collection: projects
 permalink: /2020-06-22-phytoplankton
+venue: "York University"
+name: "on going project"
+date: 2020-07-22
+location: "Toronto, Canada"
 
+---
 ---
 
 The overarching goal here is to formulate and analyze stoichiometry based models for the dynamics of phytoplankton and 
