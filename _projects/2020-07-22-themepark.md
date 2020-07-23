@@ -9,4 +9,4 @@ date: 2020-07-22
 location: "Toronto, Canada"
 
 ---
-This is i colloboration with the [Modelling Infection and Immunity Lab](http://immune.math.yorku.ca/jmheffer/).
+This is in colloboration with the [Modelling Infection and Immunity Lab](http://immune.math.yorku.ca/jmheffer/).
