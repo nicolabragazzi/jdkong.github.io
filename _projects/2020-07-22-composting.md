@@ -10,5 +10,4 @@ location: "Toronto, Canada"
 
 
 
-The aim is to model industrial composting in order to optimize facility design and compositing protocols
-composting.
+The aim is to model industrial composting in order to optimize facility design and compositing protocols.
