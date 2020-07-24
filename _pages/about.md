@@ -16,7 +16,6 @@ i) studying and forecasting the transmission and spread of pathogens within and 
 ii) designing frameworks for assessing pandemic potentials of different regions
 
 <br/><img src='/images/coro_map.png'>
-| ![Flowers](/images/coro_map.png) | ![Flowers](/images/reef_fish.jpgg) |
 
 iii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
 
