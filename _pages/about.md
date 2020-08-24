@@ -9,21 +9,25 @@ redirect_from:
 ---
 The Kong Research Group  is led by *Jude Dzevela Kong*, a Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
 
-We work on Mathematical problems in infectious diseases and population dynamics. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
+Research Interests
+====
+Mathematical Biology, Mathematical Modeling, Applied Dynamical Systems, Differential Equations, Population dynamics, Theoretical Ecology, Ecological Stoichiometry, Risk assessment of oil sands pollution,  infectious diseases modeling.
 
-Epidemiological and ecological  problems include: 
-i) studying and forecasting the transmission and spread of pathogens within and among human populations 
-ii) designing frameworks for assessing pandemic potentials of different regions
+We work on Mathematical problems in Mathematical Biology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
 
-<br/><img src='/images/coro_map.png'>
+Research problems include: 
+i) studying the impacts of oil sands on our environment
 
-iii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
+<br/><img src='/images/methane.png'> 
+
+ii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
 
 <br/><img src='/images/reef_fish.jpg'>
 
-iv) studying the impacts of oil sands on our environment
+iii) studying and forecasting the transmission and spread of pathogens within and among human populations 
+iv) designing frameworks for assessing pandemic potentials of different regions
 
-<br/><img src='/images/methane.png'> 
+<br/><img src='/images/coro_map.png'>
 Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
 
 Join us
