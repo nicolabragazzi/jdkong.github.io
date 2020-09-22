@@ -30,7 +30,7 @@ EDUCATION
  * __Visiting  Professor,__ January  2020-present.
     * _Department of Ecology, Evolution, & Natural Resources,_Rutgers University, USA
  * __Post-Doctoral Fellow,__  September 2017-December, 2019.
-    * _Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University
+    * _ Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University
  * __Secondary School Mathematics Teacher,__September 2006-July, 2010
     * _Government Secondary School, Great Soppo-Buea,_Cameroon
  
