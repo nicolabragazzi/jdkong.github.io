@@ -35,7 +35,7 @@ PROFESSIONAL EXPERIENCE
     
 GRANTS, AWARDS & FELLOWSHIPS
 ======
-* __The leading PI for $1.25 M grant on predictive modeling and forecasting of the transmission of COVID-19 in Africa using Artificial Intelligence'' awarded by IDR,__ October 2020-October 2022.
+* __The leading PI for $1.25 M grant on predictive modeling and forecasting of the transmission of COVID-19 in Africa using Artificial Intelligence'' awarded by IDRC,__ October 2020-October 2022.
   * _$1.25M._
  
 * __NSERC  Postdoctoral Fellowship,__ September  2017
@@ -44,4 +44,28 @@ GRANTS, AWARDS & FELLOWSHIPS
 * __The University of Alberta  Faculty of Science,__ August 2017
    * _Doctoral Dissertation Award._ 
    
+* __Josephine Mitchell  academic  award,__ November 2016
+   * _$ 4,000._
+   
+ * __Graduate Students' Association Academic Travel Award,__ November 2016
+   * _$ 500._
+   
+ * __Josephine Mitchell  academic  award,__ November 2016
+   * _$ 3,500._
+  
+ * __The University of Alberta's Faculty of Graduate Studies and Research Travel Award,__ November 2015
+   * _$ 2,000._
+   
+ * __The University of Alberta  2015 Graduate Student Teaching Award,__ December 2015
+   
+ 
+ * __Erasmus Mundus award,__ September 2010-August 2012
+   * _3,1000 euros._
+   
+ * __Cameroon Head of State's academic excellence award,__ December 2015
+   * _300000 frs CFA._
+ 
+ * __The University of Buea Vice-Chancellor's award for academic excellence,__  December 2008
+   * _150000 frs CFA._
+  
  
