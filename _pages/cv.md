@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * __PhD in Applied Mathematics,__ August  2017
   * _University of Alberta,_ Canada.
@@ -39,12 +39,12 @@ Education
 * __The leading PI for $1.25 M grant,__ October 2020-October 20222.
   * _''On predictive modeling and forecasting of the transmission of COVID-19
     in Africa using Artificial Intelligence''  awarded by IDR
-   * _$1.25M
+   * _ $1.25M
  
 * __NSERC  Postdoctoral Fellowship,__ September  2017
-   * _$ 90,000
+   * _ $ 90,000
  
 * __The University of Alberta  Faculty of Science,__ August 2017
-   * _ Doctoral Dissertation Award
+   * _Doctoral Dissertation Award
    
  
