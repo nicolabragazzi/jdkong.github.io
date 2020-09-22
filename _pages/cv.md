@@ -22,9 +22,8 @@ EDUCATION
 * __Bachelor of Education in Mathematics,__ July 2006
   * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
 
-PROFESSIONAL EXPERIENCE
-=====
- 
+EDUCATION
+======
  * __Assistant Professor,__ January  2020-present.
     * _Department of Mathematics & Statistics,_ York University, Canada
  * __Visiting  Professor,__ January  2020-present.
@@ -34,9 +33,8 @@ PROFESSIONAL EXPERIENCE
  * __Secondary School Mathematics Teacher,__ September 2006-July, 2010
     * _Government Secondary School, Great Soppo-Buea,_ Cameroon
     
-GRANTS, AWARDS & FELLOWSHIPS
-=====
- 
+EDUCATION
+======
 * __The leading PI for $1.25 M grant on predictive modeling and forecasting of the transmission of COVID-19 in Africa using Artificial Intelligence'' awarded by IDR,__ October 2020-October 2022.
   * _$1.25M._
  
