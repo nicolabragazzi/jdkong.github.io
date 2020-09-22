@@ -22,6 +22,8 @@ EDUCATION
 * __Bachelor of Education in Mathematics,__ July 2006
   * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
   
+  
+  
  PROFESSIONAL EXPERIENCE
  ======
  * __Assistant Professor,__ January  2020-present.
@@ -32,6 +34,8 @@ EDUCATION
     * _Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University_ 
  * __Secondary School Mathematics Teacher,__ September 2006-July, 2010
     * _Government Secondary School, Great Soppo-Buea,_ Cameroon
+    
+    
  
  GRANTS, AWARDS & FELLOWSHIPS
  =======
