@@ -32,7 +32,7 @@ EDUCATION
  * __Post-Doctoral Fellow,__  September 2017-December, 2019.
     * _Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University_ 
  * __Secondary School Mathematics Teacher,__ September 2006-July, 2010
-    *_Government Secondary School, Great Soppo-Buea,_ Cameroon
+    * _Government Secondary School, Great Soppo-Buea,_ Cameroon
  
  GRANTS, AWARDS & FELLOWSHIPS
 ==========
@@ -40,9 +40,9 @@ EDUCATION
   * _ $1.25M
  
 * __NSERC  Postdoctoral Fellowship,__ September  2017
-   * _$ 90,000
+   * _ $ 90,000
  
 * __The University of Alberta  Faculty of Science,__ August 2017
-   * _Doctoral Dissertation Award
+   * _ Doctoral Dissertation Award
    
  
