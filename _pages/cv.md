@@ -22,9 +22,8 @@ EDUCATION
 * __Bachelor of Education in Mathematics,__ July 2006
   * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
   
-  
  PROFESSIONAL EXPERIENCE
- =====
+ ======
  * __Assistant Professor,__ January  2020-present.
     * _Department of Mathematics & Statistics,_ York University, Canada
  * __Visiting  Professor,__ January  2020-present.
