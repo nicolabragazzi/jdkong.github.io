@@ -28,7 +28,7 @@ EDUCATION
  * __Assistant Professor,__ January  2020-present.
     * _Department of Mathematics & Statistics,_ York University, Canada
  * __Visiting  Professor,__ January  2020-present.
-    *_Department of Ecology, Evolution, & Natural Resources,_ Rutgers University, USA
+    * _Department of Ecology, Evolution, & Natural Resources,_ Rutgers University, USA
  * __Post-Doctoral Fellow,__  September 2017-December, 2019.
     * _Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University_ 
  * __Secondary School Mathematics Teacher,__ September 2006-July, 2010
