@@ -24,7 +24,7 @@ EDUCATION
   
   
  PROFESSIONAL EXPERIENCE
- ========
+ =====
  * __Assistant Professor,__ January  2020-present.
     * _Department of Mathematics & Statistics,_ York University, Canada
  * __Visiting  Professor,__ January  2020-present.
@@ -35,7 +35,7 @@ EDUCATION
     * _Government Secondary School, Great Soppo-Buea,_ Cameroon
  
  GRANTS, AWARDS & FELLOWSHIPS
-==========
+ =======
 * __The leading PI for $1.25 M grant on predictive modeling and forecasting of the transmission of COVID-19 in Africa using Artificial Intelligence'' awarded by IDR,__ October 2020-October 2022.
   * _$1.25M._
  
