@@ -187,18 +187,18 @@ PROFESSIONAL SERVICE
   
 LANGUAGES
 ======
-* __English, French, Pidgin English, Lamnso, Italian(A2), German  (A1)._
+* __English, French, Pidgin English, Lamnso, Italian(A2), German  (A1).__
 
 
 Computer skills
 ======
 Programming Languages 
 -----
-* __Python and Julia._ 
+* __Python and Julia.__ 
 
 Specialised Software
 -----
-* __MATLAB, Mathematica, R, STATA, SAS, SPSS._
+* __MATLAB, Mathematica, R, STATA, SAS, SPSS.__
   
 
     
