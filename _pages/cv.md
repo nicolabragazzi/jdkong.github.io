@@ -126,7 +126,7 @@ Ivited
    * _University of Alberta._
   
   * __The Young Researcher's workshop on Theoritical Approaches and  Related Mathematical Methods in Biology and Medicine.__ November 30-November 30-December 2, 2011
-    * _University of L'Aquila, Italy.
+    * _University of L'Aquila, Italy._
     
 SUPERVISION
 ====
