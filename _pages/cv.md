@@ -187,14 +187,14 @@ PROFESSIONAL SERVICE
   
 LANGUAGES
 ======
-* __English, French, Pidgin English, Lamnso, Italian(A2), German  (A1)
+* __English, French, Pidgin English, Lamnso, Italian(A2), German  (A1)._
 
 
 Computer skills
 ======
 Programming Languages 
 -----
-* __Python and Julia_. 
+* __Python and Julia._ 
 
 Specialised Software
 -----
