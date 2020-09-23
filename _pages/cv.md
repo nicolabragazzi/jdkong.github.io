@@ -108,22 +108,22 @@ Ivited
  Organized
 ---
 * __Cafe Mathematique.__ August 12,  2020
-  * _over zoom
+  * _over zoom._
 
 * __Coastal SEES workshop.__  May 6-8,  2019, July 9-10, 2019.
   * _Rutgers  University
 
 * __PIMS young researchers conference.__  June 13-16, 2016.
-  * _University of Alberta
+  * _University of Alberta._
 
 * __Seminaire de Mathematiques Superieures 2016.__ May 30-June 10, 2016.
-  * _University of Alberta
+  * _University of Alberta._
   
  * __The Alberta Student Leadership Summit.__ January 31, 2015
-  * _University of Alberta
+  * _University of Alberta._
  
  * __The University of Alberta Summer school on the Mathematics Behind Biological Invasions.__ May 2013
-   * _University of Alberta
+   * _University of Alberta._
   
   * __The Young Researcher's workshop on Theoritical Approaches and  Related Mathematical Methods in Biology and Medicine.__ November 30-November 30-December 2, 2011
     * _University of L'Aquila, Italy.
