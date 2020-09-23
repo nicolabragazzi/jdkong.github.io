@@ -13,12 +13,16 @@ EDUCATION
 ======
 * __PhD in Applied Mathematics,__ August  2017
   * _University of Alberta,_ Canada.
+  
 * __Certificate in Data Science,__ August  2017
   * _University of Alberta,_ Canada.
+  
 * __Master of Science in Mathematical Engineering,__ August  2012
   * _Erasmus Mundus Joint Master's degree in Mathematical Modelling in Engineering(Mathmods):_ Theory, Numerics, Applications (University of L'Aquila-Italy and University of  Hamburg-Germany)
+  
 * __Bachelor of Science in Mathematics,__ July 2009
   * _(with a minor in Computer Science) University of Buea,_ Cameroon.
+  
 * __Bachelor of Education in Mathematics,__ July 2006
   * _Advanced Teachers' Training College Annex Bambili (Ecole Normale Superieure Annexe Bambili),_ University of Yaounde 1, Cameroon.
 
@@ -26,10 +30,13 @@ PROFESSIONAL EXPERIENCE
 ======
  * __Assistant Professor,__ January  2020-present.
     * _Department of Mathematics & Statistics,_ York University, Canada
+    
  * __Visiting  Professor,__ January  2020-present.
     * _Department of Ecology, Evolution, & Natural Resources,_ Rutgers University, USA
+    
  * __Post-Doctoral Fellow,__  September 2017-December, 2019.
     * _Simon Levin-Princeton University, Fred Roberts-DIMACS, Malin Pinsky-Rutgers University_ 
+    
  * __Secondary School Mathematics Teacher,__ September 2006-July, 2010
     * _Government Secondary School, Great Soppo-Buea,_ Cameroon
     
