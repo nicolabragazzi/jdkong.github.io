@@ -145,17 +145,17 @@ SUPERVISION
 TEACHING
 ======
 * __SC/MATH 1505-Mathematics for life and social sciences,__ September-December  2020
-  * _York University,_ Canada.
+  * _York University_Canada.
 * __SC/MATH1025 N -Applied Linear Algebra,__ August  2017
-  * _University of Alberta,_ Canada.
+  * _University of Alberta,_Canada.
 * __Design and Analysis of Data Structures and Algorithms (CS513),__ January-May 2018
   * _Rutgers University, USA
 * __Maths 201 (Ordinary Differential Equations), Maths 209 (Calculus III) and Maths 300 (Partial  Differential Equations),__ September 2012-August 2017
-  * _University of Alberta,  Canada
+  * _University of Alberta,_Canada
 * __Ordinary  and Partial Differential Equations courses (Math 376 and Math 476),__ September 2015-2018
-  * _Athabasca University,  Canada.
+  * _Athabasca University,_Canada.
 * __Calculus I.__ October 2008- February 2009
-  * _University of Buea,  Cameroon.
+  * _University of Buea,_Cameroon.
 * __Secondary School Mathematics.__ Sept 2006 - July 2010.
   * _Government Secondary School-Great Soppo, Buea, Cameroon 
   
