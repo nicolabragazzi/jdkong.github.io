@@ -79,7 +79,7 @@ TALKS AND SEMINARS
 Ivited
 ---
 * __SIAM LS 20 Minisymposium:  Mathematics of Infectious Diseases and our Planet.__ June 30, 2020
-  * _over zoom
+  * _over zoom._
  
 * __Special Seminar talk on Indirectly Transmitted Infectious Diseases.__ April 12,  2019
   * _at Arizona State University._
