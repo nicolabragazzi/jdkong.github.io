@@ -194,11 +194,11 @@ Computer skills
 ======
 Programming Languages 
 -----
-* __Python and Julia. 
+* __Python and Julia_. 
 
 Specialised Software
 -----
-* __MATLAB, Mathematica, R, STATA, SAS, SPSS.
+* __MATLAB, Mathematica, R, STATA, SAS, SPSS._
   
 
     
