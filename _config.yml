@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Jude Dzevela Kong"
-description              : &description "Assistant Professor."
-url                      : http://www.judekong.ca #https://jdkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nicola Luigi Bragazzi"
+description              : &description "Medical Doctor, PhD"
+url                      : https://github.com/nicolabragazzi # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jdkong.github.io"
+repository               : ""
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,7 +21,7 @@ read_more                : "disable" # if enabled, adds "Read more" links to exc
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : judekong-ca
+    shortname            : bragazzi-ca
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -78,33 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jude Dzevela Kong"
-  avatar           : "profile_july2020.jpg"
-  bio              : "Assistant Professor, Applied Mathematician and Data Scientist."
+  name             : "Nicola Luigi Bragazzi"
+  avatar           : ""
+  bio              : "Medical Doctor, PhD, Mathematical Modeller and Data Scientist."
   location         : "Ontario"
   employer         :
   googlescholar    :
-  email            : "dzevela85@gmail.com"
+  email            : "robertobragazzi@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "dzevela"
+  facebook         : ""
   foursquare       :
-  github           : "jdkong"
+  github           : "nicolabragazzi"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "dzevela"
+  linkedin         : "Nicola Luigi Bragazzi"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "dzevela"
+  twitter          : "nicolabragazzi"
   vine             :
   weibo            :
   xing             :
