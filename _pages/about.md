@@ -9,6 +9,8 @@ redirect_from:
 ---
 The Kong Research Group  is led by *Jude Dzevela Kong*, a Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
 
+[Please click here for the updated website!!](https://judekong.mathstats.yorku.ca)
+
 Research Interests
 ====
 Mathematical Biology, Mathematical Modeling, Applied Dynamical Systems, Differential Equations, Population dynamics, Theoretical Ecology, Ecological Stoichiometry, Risk assessment of oil sands pollution,  infectious diseases modeling.
