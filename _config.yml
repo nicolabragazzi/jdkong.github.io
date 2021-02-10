@@ -82,8 +82,8 @@ author:
   avatar           : "profile_nico.jpeg"
   bio              : "Medical Doctor, PhD, Mathematical Modeller and Data Scientist."
   location         : "Ontario"
-  employer         :"https://www.yorku.ca/science/mathstats/"
-  googlescholar    :"https://scholar.google.com/citations?user=sTIzwwEAAAAJ"
+  employer         : "https://www.yorku.ca/science/mathstats/"
+  googlescholar    : "https://scholar.google.com/citations?user=sTIzwwEAAAAJ"
   email            : "robertobragazzi@gmail.com"
   uri              :
   bitbucket        :
