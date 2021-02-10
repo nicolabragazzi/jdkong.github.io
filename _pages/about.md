@@ -7,32 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The Kong Research Group  is led by *Jude Dzevela Kong*, a Professor in the [Department of Mathematics & Statistics](https://mathstats.info.yorku.ca) at York University and a member of the [Canadian Center for Disease Modelling](http://www.cdm.yorku.ca).
 
-[Please click here for the updated website!!](https://judekong.mathstats.yorku.ca)
-==========
+ *Nicola Luigi Bragazzi* got his MD in general medicine and surgery from Genoa University (Genoa, Italy) in 2011, his PhD in biophysics from Marburg University (Marburg, Germany) in 2014 and his specialization in Public Health from Genoa University (Genoa, Italy) in 2017. He is a member of the Cochrane Association (Cochrane Reviewer) for the Cochrane Epilepsy Group. He has been awarded Young Knight of the Italian Republic by the President Carlo Azeglio Ciampi in 2005. Recently, in 2019, he has been nominated as one of the top five biomedical researchers worldwide aged less than 40 years in terms of number of publications, articles in Q1 biomedical journals, total impact factor and h-index. He is currently working on infectious disease and vaccination modelling and big data mining in biomedicine at York University.
 
-Research Interests
-====
-Mathematical Biology, Mathematical Modeling, Applied Dynamical Systems, Differential Equations, Population dynamics, Theoretical Ecology, Ecological Stoichiometry, Risk assessment of oil sands pollution,  infectious diseases modeling.
+Research Interests 
+======
+modelling and predicting infectious disorders and impact of vaccination, evidence-based medicine (systematic reviews and meta-analysis) and big data mining, with an emphasis on big data in immunology.
 
-We work on Mathematical problems in Mathematical Biology. Mathematical models include ordinary differential equations, partial differential equations, delay differential equations, difference equations and stochastic process-based models.
-
-Research problems include: 
-i) studying the impacts of oil sands on our environment
-
-<br/><img src='/images/methane.png'> 
-
-ii) understanding, forecasting (near-term), or projecting (long-term) species distribution under potential future ecosystem conditions
-
-<br/><img src='/images/reef_fish.jpg'>
-
-iii) studying and forecasting the transmission and spread of pathogens within and among human populations 
-iv) designing frameworks for assessing pandemic potentials of different regions
-
-<br/><img src='/images/coro_map.png'>
-Analytical techniques include local and global stability analysis, bifurcation analysis, theory of monotone dynamical systems, persistence theory and sensitivity analysis.
-
-Join us
-===
-We are actively looking for passionate undergraduate and graduate students,  and  postdocs to join our group. If  our scientific interests overlap, and you will like to join us,  please contact us before you apply so that we can discuss your application. In your email, please include a description of your interests and how they fit into our lab along with a CV, and unofficial transcripts. All students are welcome here regardless of race, religion, gender identification, sexual orientation, age, or disability status.
